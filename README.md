@@ -6,7 +6,7 @@ I am an Electronics & Communication (E&C) student at KLE Technological Universit
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** C++, Python, Java, HTML, CSS, JavaScript
+- **Languages:** C++, Python, C
 - **Tools:** Git, VS Code, Arduino, MATLAB
 - **Domains:** Embedded Systems, Communication, Automotive
 
